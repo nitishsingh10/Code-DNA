@@ -1,24 +1,15 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
 
-Deployed Link : https://codedna2.vercel.app/
+## Deployed Link : https://codedna2.vercel.app/
 
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+# Project detail : CodeDNA — We Decode Any Codebase Into Your Personal Curriculum.
+
+420 million GitHub repositories exist. 30 million developers struggle to understand them.
+CodeDNA transforms any GitHub repo into adaptive quizzes, real DSA problems, code challenges, and voice lessons — all generated from the actual production code, not textbook examples. Paste a repo, get a curriculum. Built for every developer who has ever opened a massive codebase and had no idea where to start.
+Team CTRL ALT DLT · "Every repo has a story. We decode it."
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
