@@ -1,6 +1,6 @@
-###CODE-DNA
+*CODE-DNA*
 
-####Deployed Link : https://codedna2.vercel.app/
+Deployed Link : https://codedna2.vercel.app/
 
 
 Project detail : CodeDNA — We Decode Any Codebase Into Your Personal Curriculum.
@@ -10,7 +10,7 @@ CodeDNA transforms any GitHub repo into adaptive quizzes, real DSA problems, cod
 Team CTRL ALT DLT · "Every repo has a story. We decode it."
 
 
-###How to start :
+How to start :
 
 
 1. Get to the website 
